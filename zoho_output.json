@@ -1,0 +1,64 @@
+{
+  "identity": {
+    "company_name": "Zoho",
+    "website": "https://www.zoho.com",
+    "tagline": "A single, powerful suite of software to run your entire business"
+  },
+  "business_summary": {
+    "what_they_do": "Zoho provides a comprehensive suite of cloud-based business software covering CRM, finance, HR, IT management, analytics, and collaboration. Their products are designed to help organizations operate efficiently using a single integrated platform.",
+    "primary_offerings": [
+      "CRM Software",
+      "Finance & Accounting Tools",
+      "HR Management",
+      "IT Management",
+      "Business Analytics"
+    ],
+    "target_customers": [
+      "Small Businesses",
+      "Mid-size Companies",
+      "Enterprises",
+      "Sales Teams",
+      "Finance Teams"
+    ]
+  },
+  "evidence": {
+    "key_pages_detected": [
+      "https://www.zoho.com",
+      "https://www.zoho.com/aboutus.html",
+      "https://www.zoho.com/products.html",
+      "https://www.zoho.com/contactus.html"
+    ],
+    "signals": [
+      "Global customer base",
+      "Product documentation",
+      "Customer success stories"
+    ],
+    "social_links": {
+      "linkedin": "found",
+      "twitter": "found",
+      "youtube": "found",
+      "instagram": "found"
+    }
+  },
+  "contact_and_location": {
+    "emails": [],
+    "phones": [],
+    "address": "Multiple global offices listed",
+    "contact_page": "https://www.zoho.com/contactus.html"
+  },
+  "team_and_hiring": {
+    "careers_page": "https://www.zoho.com/careers.html",
+    "roles_detected": []
+  },
+  "metadata": {
+    "scrape_timestamp": "2025-12-24T05:35:00Z",
+    "pages_visited": [
+      "https://www.zoho.com",
+      "https://www.zoho.com/aboutus.html",
+      "https://www.zoho.com/products.html",
+      "https://www.zoho.com/contactus.html",
+      "https://www.zoho.com/careers.html"
+    ],
+    "errors_or_limitations": []
+  }
+}

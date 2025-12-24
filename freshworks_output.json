@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "company_name": "Freshworks",
+    "website": "https://www.freshworks.com",
+    "tagline": "Delight made easy"
+  },
+  "business_summary": {
+    "what_they_do": "Freshworks builds cloud-based software that helps businesses manage customer support, IT service management, CRM, and marketing automation. Their products are designed to be easy to use and quick to deploy for teams of all sizes.",
+    "primary_offerings": [
+      "Customer Support Software",
+      "IT Service Management",
+      "CRM",
+      "Marketing Automation"
+    ],
+    "target_customers": [
+      "Small and Medium Businesses",
+      "Enterprises",
+      "Customer Support Teams",
+      "IT Teams",
+      "Sales Teams"
+    ]
+  },
+  "evidence": {
+    "key_pages_detected": [
+      "https://www.freshworks.com",
+      "https://www.freshworks.com/about/",
+      "https://www.freshworks.com/products/",
+      "https://www.freshworks.com/contact/"
+    ],
+    "signals": [
+      "Customer logos",
+      "Case studies",
+      "Product testimonials"
+    ],
+    "social_links": {
+      "linkedin": "found",
+      "twitter": "found",
+      "youtube": "found",
+      "instagram": "found"
+    }
+  },
+  "contact_and_location": {
+    "emails": [],
+    "phones": [],
+    "address": "Not explicitly listed on scraped pages",
+    "contact_page": "https://www.freshworks.com/contact/"
+  },
+  "team_and_hiring": {
+    "careers_page": "https://www.freshworks.com/careers/",
+    "roles_detected": []
+  },
+  "metadata": {
+    "scrape_timestamp": "2025-12-24T05:30:00Z",
+    "pages_visited": [
+      "https://www.freshworks.com",
+      "https://www.freshworks.com/about/",
+      "https://www.freshworks.com/products/",
+      "https://www.freshworks.com/contact/",
+      "https://www.freshworks.com/careers/"
+    ],
+    "errors_or_limitations": []
+  }
+}
